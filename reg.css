@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.conteiner {}
+
+.form {
+    max-width: 500px;
+    box-shadow: 10px 20px 20px blue;
+    text-align: center;
+
+
+}
+
+.form__block {
+    background-color: aquamarine;
+    color: rgb(255, 8, 8);
+    padding: 20px;
+}
+
+.form-info {
+    padding: 10px;
+
+}
+
+.form__input {
+    width: 10 10;
+    padding: 7px;
+
+}
+
+
+.form-color {
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+}
+
+.form__btn {}
+
+.wrapper {
+    background: url(картинки/images.jpg) no-repeat center/cover;
+    min-height: 900px;
+
+}
+
+.start {
+    text-align: center;
+    color: white;
+}
+
+.png {}
+
+.silka {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    border: thin solid black;
+    background-color: rgb(235, 235, 235);
+    padding: 5px;
+
+}
+
+.btn-block {
+    margin-top: 10px;
+}
+
+.form__idea {
+    border: medium solid black;
+
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.wrapper-contant {
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapper-block {
+    background-color: rgba(255, 255, 255, 0.74);
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 500px;
+}
